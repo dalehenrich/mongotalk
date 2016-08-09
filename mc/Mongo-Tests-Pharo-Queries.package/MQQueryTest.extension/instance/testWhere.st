@@ -1,4 +1,4 @@
-tests
+*Mongo-Tests-Pharo-Queries
 testWhere
 	| selected |
 	collection add: (Dictionary new at: 'key1' put: 'value1'; yourself).
