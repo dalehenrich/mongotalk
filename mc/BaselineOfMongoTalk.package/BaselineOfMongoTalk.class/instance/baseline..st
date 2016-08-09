@@ -2,7 +2,7 @@ baseline
 baseline: spec
 	<baseline>
 
-	spec for: #'pharo' do: [
+	spec for: #'common' do: [
 		spec 
 			package: 'Mongo-Queries';
 			package: 'Mongo-Tests-Queries' with: [
