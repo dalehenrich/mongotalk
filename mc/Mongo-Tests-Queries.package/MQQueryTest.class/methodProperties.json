@@ -1,6 +1,6 @@
 {
 	"class" : {
-		 },
+		"isAbstract" : "dkh 8/9/2016 15:27" },
 	"instance" : {
 		"testAnd" : "NicolasPetton 11/17/2012 13:04",
 		"testAndNot" : "NicolasPetton 11/17/2012 13:59",
