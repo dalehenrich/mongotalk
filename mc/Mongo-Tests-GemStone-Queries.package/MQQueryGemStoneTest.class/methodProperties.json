@@ -2,5 +2,13 @@
 	"class" : {
 		 },
 	"instance" : {
-		"setUp" : "dkh 8/9/2016 15:23",
-		"tearDown" : "dkh 8/9/2016 15:22" } }
+		"add:" : "dkh 08/09/2016 15:57",
+		"collectionName" : "dkh 08/09/2016 15:54",
+		"databaseName" : "dkh 08/09/2016 15:50",
+		"dbServerClassName" : "dkh 08/09/2016 15:49",
+		"detect:" : "dkh 08/09/2016 16:08",
+		"repository" : "dkh 08/09/2016 15:49",
+		"repositoryClass" : "dkh 08/09/2016 15:49",
+		"select:" : "dkh 08/09/2016 16:02",
+		"setUp" : "dkh 08/09/2016 15:51",
+		"tearDown" : "dkh 08/09/2016 16:04" } }

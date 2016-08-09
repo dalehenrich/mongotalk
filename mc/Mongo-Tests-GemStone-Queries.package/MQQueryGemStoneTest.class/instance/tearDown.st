@@ -1,4 +1,3 @@
 running
 tearDown
-	collection drop.
-	root close
+  root db drop
