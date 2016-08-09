@@ -1,0 +1,14 @@
+{
+	"category" : "Mongo-Tests-GemStone-Queries",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MQQueryGemStoneTest",
+	"pools" : [
+		 ],
+	"super" : "MQQueryTest",
+	"type" : "normal" }

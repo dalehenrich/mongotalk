@@ -1,0 +1,14 @@
+{
+	"category" : "Mongo-Tests-Pharo-Queries",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MQQueryPharoTest",
+	"pools" : [
+		 ],
+	"super" : "MQQueryTest",
+	"type" : "normal" }
