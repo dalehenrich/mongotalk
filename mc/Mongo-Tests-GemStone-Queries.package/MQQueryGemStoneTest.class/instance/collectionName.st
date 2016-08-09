@@ -1,0 +1,3 @@
+private
+collectionName
+  ^ 'mongo queries'
