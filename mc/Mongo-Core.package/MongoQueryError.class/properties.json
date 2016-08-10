@@ -1,0 +1,14 @@
+{
+	"category" : "Mongo-Core-Errors",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"reply" ],
+	"name" : "MongoQueryError",
+	"pools" : [
+		 ],
+	"super" : "Error",
+	"type" : "normal" }

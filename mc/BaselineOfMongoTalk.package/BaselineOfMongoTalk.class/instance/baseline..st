@@ -26,7 +26,7 @@ baseline: spec
 				spec requires: #('Mongo-Core' 'Mongo-Queries') ].
 
 		spec 
-			group: 'default' with: #('Tests' 'Tools');
+			group: 'default' with: #('Core' 'Tools' 'Tests');
 			group: 'Core' with: #('Mongo-Core' );
 			group: 'Tools' with: #('Mongo-Pharo-Tools' );
 			group: 'Tests' with: #('Mongo-Tests-BSON' 'Mongo-Tests-Core' 'Mongo-Tests-Pharo-Queries') ].
