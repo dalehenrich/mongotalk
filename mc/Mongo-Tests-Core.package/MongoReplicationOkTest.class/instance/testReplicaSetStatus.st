@@ -1,9 +1,9 @@
 tests
 testReplicaSetStatus
-	"Follow comment in my superclass to set up the expected test mongo replica set."
-
 	| replicaSetStatus |
-	self skip. "<-- Remove this skip if proper external set up"
+
+	"See _manual_set_up_ to set up the testing mongodb replica set."
+	isMongoAvailable ifFalse: [ ^self skip ].
 
 	replicaSetStatus := mongo replicaSetStatus.
 

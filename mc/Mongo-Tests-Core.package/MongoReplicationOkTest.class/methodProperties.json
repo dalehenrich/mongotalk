@@ -1,8 +1,9 @@
 {
+	"class" : {
+		 },
 	"instance" : {
-		"newMongo" : "MartinDias 5/12/2016 02:08",
-		"testReplicaSet" : "MartinDias 5/12/2016 02:12",
-		"testReplicaSetStatus" : "MartinDias 5/12/2016 02:14"
-	},
-	"class" : { }
-}
+		"_manual_set_up_" : "MartinDias 6/16/2016 21:05",
+		"newMongo" : "MartinDias 6/17/2016 01:10",
+		"testReplicaSetConfig" : "MartinDias 6/17/2016 00:38",
+		"testReplicaSetStatus" : "MartinDias 6/16/2016 22:54",
+		"testReplicaSetStepDown" : "MartinDias 6/17/2016 01:15" } }
