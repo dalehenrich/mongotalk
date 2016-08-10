@@ -9,7 +9,7 @@ baseline: spec
 				spec requires: #('Mongo-Queries' ). ];
 			yourself.
 		spec 
-			group: 'Core' with: #('Mongo-Core');
+			group: 'Core' with: #('Mongo-Queries');
 			group: 'Tests' with: #('Mongo-Tests-Queries');
 			yourself ].
 	
