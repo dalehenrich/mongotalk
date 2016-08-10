@@ -1,3 +1,3 @@
-*Mongo-Pharo-Queries
+*Mongo-Queries
 asMongoQuery 
 	^ MQQueryBuilder queryFor: self
